@@ -32,6 +32,20 @@ a organizar a estruturar os arquivos css do projeto;
 
 Metodologia Atomic Design.
 
+2 - Estilização de Banner e Sobre - aprendizados:
+
+Um padrão para nomear as classes de CSS;
+
+Conhecemos a metodologia BEM.
+
+3 - Estilização das Receitas - aprendizados:
+
+Organização e estrutura de arquivos .css;
+
+Separação de responsabilidades;
+
+a criar e manter arquivos menores.
+
 
 
 
