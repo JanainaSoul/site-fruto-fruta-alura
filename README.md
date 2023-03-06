@@ -18,6 +18,9 @@ Atomic Design
 
 ![image](https://user-images.githubusercontent.com/104031152/223124504-68b8247f-9923-4d33-8a7a-51fdd31a2d8f.png)
 
+![image](https://user-images.githubusercontent.com/104031152/223124720-c87ab330-261c-41c3-95e4-28824e81abea.png)
+
+
 
 
 
