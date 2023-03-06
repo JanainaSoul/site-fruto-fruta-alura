@@ -46,6 +46,14 @@ Separação de responsabilidades;
 
 a criar e manter arquivos menores.
 
+4- Estilização do Quem Somos - aprendizados:
+
+Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+
+Boas práticas com importação de imagens;
+
+A manter as estilizações nos arquivos de estilo.
+
 
 
 
