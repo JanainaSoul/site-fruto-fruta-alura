@@ -6,6 +6,6 @@ curso de arquitetura da Alura.
 HTML
 CSS
 
-#Aprendizados
+# Aprendizados
 
 Atomic Design
