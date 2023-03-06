@@ -20,6 +20,16 @@ Atomic Design
 
 ![image](https://user-images.githubusercontent.com/104031152/223124720-c87ab330-261c-41c3-95e4-28824e81abea.png)
 
+# Conteudo
+
+1- Layout basico e Estilização de cabeçalho - aprendizados:
+
+a utilizar seletores CSS mais simples;
+
+a organizar a estruturar os arquivos css do projeto;
+
+Metodologia Atomic Design.
+
 
 
 
