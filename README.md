@@ -54,6 +54,12 @@ Boas práticas com importação de imagens;
 
 A manter as estilizações nos arquivos de estilo.
 
+5 - Estilização do rodapé e Responsividade - aprenidzados:
+
+Tornar um site responsivo;
+
+Como configurar a adaptação do site a diferentes tamanhos de tela.
+
 
 
 
